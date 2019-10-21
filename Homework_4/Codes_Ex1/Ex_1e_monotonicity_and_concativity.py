@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-@author: Jakub Bławat
+@author: Zuzanka
 """
 
 import numpy as np

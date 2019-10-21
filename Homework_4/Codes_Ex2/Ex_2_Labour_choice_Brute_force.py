@@ -2,7 +2,7 @@
 """
 Created on Sat Oct 19 00:35:51 2019
 
-@author: kuba
+@author: Zuzanka
 """
 import sympy as sp
 import numpy as np

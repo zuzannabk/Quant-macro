@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Oct 29 20:43:47 2019
+Created on Tue Oct 29 22:48:22 2019
 
-@author: Jakub Bławat
+@author: Zuzanka
 """
 
 import numpy as np
